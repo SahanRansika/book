@@ -3,4 +3,6 @@ Hello World!
 git basic
  .ls - list
  .git init - initializing project
- .git status - 
+ .git status - add check
+ .git add mybook.txt - add to the txt git
+ .git commit -m "init project"- commit to the message
