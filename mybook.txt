@@ -13,4 +13,6 @@ Hello World!
  .git show copycode- changing show
  .git branch - show branches (master)
  .git branch chapter1 - new branch design
+ .git git remote add origin https://github.com/SahanRansika/book.git - reporsiety file code
+ .git push origin branch - push with branch
  
