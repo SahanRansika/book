@@ -12,4 +12,5 @@ Hello World!
  .git log - check to changes
  .git show copycode- changing show
  .git branch - show branches
+ .git checkout chapter1 - changing to branch
  
