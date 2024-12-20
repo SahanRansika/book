@@ -1,8 +1,13 @@
 Hello World!
----------------------------------------------------------------------------------------
-git basic
+
+
+-------------------------------------------------------------------------------------------
+					GitHub basic
+-------------------------------------------------------------------------------------------
  .ls - list
  .git init - initializing project
  .git status - add check
  .git add mybook.txt - add to the txt git
- .git commit -m "init project"- commit to the message
+ .git commit -m "init project"- commit to the message,start to verb and start simple letters now
+ .git log - check to changes
+ 
