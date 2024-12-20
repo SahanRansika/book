@@ -1,0 +1,6 @@
+Hello World!
+---------------------------------------------------------------------------------------
+git basic
+ .ls - list
+ .git init - initializing project
+ .git status - 
