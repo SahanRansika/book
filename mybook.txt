@@ -15,4 +15,4 @@ Hello World!
  .git branch chapter1 - new branch design
  .git remote add origin https://github.com/SahanRansika/book.git - reposited file code
  .git push origin branch - push with branch
- .git add . - all control to access
+ .git add . - all add control to access
